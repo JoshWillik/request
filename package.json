@@ -1,20 +1,20 @@
 {
-  "name": "request",
-  "description": "Simplified HTTP request client.",
+  "name": "@joshwillik/request",
+  "description": "Josh's forke of the Simplified HTTP request client.",
   "tags": [
     "http",
     "simple",
     "util",
     "utility"
   ],
-  "version": "2.61.1",
-  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "version": "2.61.2",
+  "author": "Josh Vanderwillik <joshwillik@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/request/request.git"
+    "url": "https://github.com/joshwillik/request.git"
   },
   "bugs": {
-    "url": "http://github.com/request/request/issues"
+    "url": "http://github.com/joshwillik/request/issues"
   },
   "license": "Apache-2.0",
   "engines": {

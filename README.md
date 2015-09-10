@@ -1,4 +1,6 @@
 
+# DO NOT USE THIS MODULE IN PRODUCTION
+
 # Request - Simplified HTTP client
 
 [![npm package](https://nodei.co/npm/request.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/request/)
